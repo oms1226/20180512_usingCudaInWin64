@@ -47,7 +47,7 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>reduce</find>
-      <find>Colab Notebooks</find>
+      <find />
       <find>style_transfer</find>
       <find>total</find>
       <find>stylize</find>
@@ -74,8 +74,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1078" />
-    <option name="y" value="429" />
+    <option name="x" value="1109" />
+    <option name="y" value="759" />
     <option name="width" value="1294" />
     <option name="height" value="946" />
   </component>
