@@ -6,3 +6,8 @@ https://developer.nvidia.com/compute/machine-learning/cudnn/secure/v7.1.3/prod/9
 
 # related docs
 http://oms1226.omscompany.com/omswiki/index.php?title=Cuda#windows_10.EC.97.90_.EC.84.A4.EC.B9.98.ED.95.98.EA.B8.B0
+
+# oms1226 history
+
+20180516 : "Github에 100MB 이상의 파일을 올리는 방법" 최초 시도해서 성공함
+
