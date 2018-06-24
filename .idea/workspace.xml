@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9f6a0f14-a327-4daa-b195-9d2c5ee298d1" name="Default" comment="" />
+    <list default="true" id="9f6a0f14-a327-4daa-b195-9d2c5ee298d1" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,7 +16,7 @@
       <file leaf-file-name="style_transfer.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/20180423_24_25_SK_Lab/style_transfer/style_transfer.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="613">
+            <state relative-caret-position="614">
               <caret line="455" selection-start-line="455" selection-end-line="455" />
               <folding>
                 <element signature="e#0#10#0" expanded="true" />
@@ -74,8 +76,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1109" />
-    <option name="y" value="759" />
+    <option name="x" value="415" />
+    <option name="y" value="367" />
     <option name="width" value="1294" />
     <option name="height" value="946" />
   </component>
@@ -237,7 +239,8 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1078" y="429" width="1294" height="946" extended-state="0" />
+    <frame x="415" y="367" width="1294" height="946" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24283439" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -268,6 +271,46 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/20180423_24_25_SK_Lab/style_transfer/style_transfer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8645">
+          <caret line="455" selection-start-line="455" selection-end-line="455" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/20180423_24_25_SK_Lab/style_transfer/vgg.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="21" column="12" selection-start-line="21" selection-start-column="4" selection-end-line="21" selection-end-column="12" />
+          <folding>
+            <element signature="e#64#87#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/20180423_24_25_SK_Lab/style_transfer/style_transfer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8645">
+          <caret line="455" selection-start-line="455" selection-end-line="455" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/20180423_24_25_SK_Lab/style_transfer/vgg.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="21" column="12" selection-start-line="21" selection-start-column="4" selection-end-line="21" selection-end-column="12" />
+          <folding>
+            <element signature="e#64#87#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/20180423_24_25_SK_Lab/style_transfer/style_transfer.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="8227">
@@ -429,7 +472,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/20180423_24_25_SK_Lab/style_transfer/style_transfer.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="613">
+        <state relative-caret-position="614">
           <caret line="455" selection-start-line="455" selection-end-line="455" />
           <folding>
             <element signature="e#0#10#0" expanded="true" />
